@@ -10,5 +10,6 @@ Processed reference files from NCBI, StringDB
 
 - string_v12_ppi_numbers.tsv.xz - Human Gene-Gene interaction, not PPI. Translated from String V12. First column is source gene, Second column is target genes, third column is target gene number.
 - GO_term_relationships.tsv.gz - Relationships extracted from GO.json available on GeneOntology website.
+- CTD_chem_gene_ixns_hsa.sqlite.xz - CTD chemical to gene interactions
 
-**_Notice:_** Licences of original source apply to all these files.
+**_Notice:_**  Licences of original sources (NCBI, CTD, StringDB, GO consortium) apply to view, download and use all the files hosted here, without exception. You need to explicit permission from original sources to download, view and usage of these files. 
