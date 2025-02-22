@@ -12,4 +12,4 @@ Processed reference files from NCBI, StringDB
 - GO_term_relationships.tsv.gz - Relationships extracted from GO.json available on GeneOntology website.
 - CTD_chem_gene_ixns_hsa.sqlite.xz - CTD chemical to gene interactions
 
-**_Notice:_**  Licences of original sources (NCBI, CTD, StringDB, GO consortium) apply to view, download and use all the files hosted here, without exception. You need to explicit permission from original sources to download, view and usage of these files. 
+**_Notice:_**  Licences of original sources (NCBI, CTD, StringDB, GO consortium) apply to view, download and use all the files hosted here, without exception. Explicit permission from original sources are mandatory to download, view and usage of these files. 
