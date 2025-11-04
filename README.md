@@ -10,5 +10,7 @@ Processed reference files from NCBI, StringDB
 - biogrid_hsa_mmu_rno.sqlite.xz - Biogripd interactions for human, mouse and rat (as such from Biogrid).
 - hsa_mmu_rno_orthologs.tsv.zip - Orthologs (ENTREZIDs) among Hsa, Mmu (mouse) and Rno (Rat). Source ortholog file is provided by MGI.
 - hsa_kegg_entrez_go.duckdb - Duckdb with Human gene symbols, Entrez IDs, Pathway IDs and Pathway Names.
+- hsa_symbols_orthologs_w_mmu_rno.tsv - Human gene symbol orthologs with Mmu, Rno
+- hsa_mmu_rno_ncbi_orthologs.tsv - Human, Mmu, and Rno orthologs (all against all)
 
 **_Notice:_**  Licences of original sources (NCBI, CTD, StringDB, GO consortium) apply to view, download and use all the files hosted here, without exception. Explicit permission from original sources are mandatory to download, view and usage of these files. 
